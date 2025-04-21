@@ -61,14 +61,14 @@ Un caso práctico donde los participantes:
 ```
 ---
 
-👩‍🏫 Instructora
-Joanna Alexandra Carrión Pérez
-🎓 Bachiller en Ingeniería Electrónica
-💼 Analista de Datos | Docente | Investigadora
-📧 joannacarrion14@gmail.com
-🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carrión%20Pérez-blue?style=flat&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
+## 👩‍🏫 Instructora
+- Joanna Alexandra Carrión Pérez
+- 🎓 Bachiller en Ingeniería Electrónica
+- 💼 Analista de Datos | Docente | Investigadora
+- 📧 joannacarrion14@gmail.com
+- 🔗 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Joanna%20Carrión%20Pérez-blue?style=flat&logo=linkedin) [LinkedIn](https://www.linkedin.com/in/joanna-carrion-perez/)
 
 ---
 
-💡 ¿Contribuciones?
+## 💡 ¿Contribuciones?
 Este repositorio está destinado al uso educativo de los alumnos del diplomado. Sin embargo, si deseas colaborar con ejemplos o sugerencias, ¡eres bienvenido a abrir un issue o pull request!
