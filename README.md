@@ -1,5 +1,9 @@
 # 📊 Especialista en Análisis de Datos con Excel, SQL y Power BI
 
+<p align="center">
+  <img src="./imagenes/portada.png" alt="Portada Especialista en Análisis de Datos" width="100%">
+</p>
+
 ![Excel](https://img.shields.io/badge/Excel-Análisis%20de%20Datos-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Consultas%20y%20Bases%20de%20Datos-336791?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Visualización%20Interactiva-F2C811?style=flat&logo=power-bi&logoColor=black)
