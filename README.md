@@ -19,32 +19,37 @@ Brindar al participante las competencias necesarias para **recopilar, procesar, 
 
 ## 🧱 Estructura del Curso
 
-### 📦 Módulo 1: Fundamentos del Análisis de Datos (4h)
-- Introducción y ciclo de vida del análisis de datos.
-- Tipos de datos.
-- Herramientas principales del diplomado.
+## 🧱 Módulo 1: Fundamentos del Análisis de Datos
+- Clase 1: Introducción, ciclo de vida del análisis de datos, herramientas, tipos de datos.
+- Clase 2: Ética del dato, calidad de datos, ejemplos reales de analítica empresarial.
 
-### 📦 Módulo 2: Excel para Análisis de Datos (16h)
-- Funciones lógicas, estadísticas y de búsqueda.
-- Tablas dinámicas, segmentaciones y filtros.
-- Introducción a Power Query.
-- Dashboards interactivos.
+## 📊 Módulo 2: Excel para Análisis de Datos
+- Clase 3: Repaso interfaz, tipos de datos, referencias, validación.
+- Clase 4: Funciones básicas, lógicas (SI, Y, O), anidadas.
+- Clase 5: Funciones estadísticas y de búsqueda (BUSCARV/X, COINCIDIR, INDICE).
+- Clase 6: Tablas dinámicas, segmentadores, gráficos dinámicos.
+- Clase 7: Power Query: importar, combinar y transformar datos.
+- Clase 8: Dashboards en Excel (caso práctico).
+- Clase 9: Actividad integradora en Excel (desafío guiado).
 
-### 📦 Módulo 3: SQL para Consulta y Manipulación (16h)
-- Fundamentos de bases de datos relacionales.
-- SELECT, JOINs, GROUP BY, subconsultas.
-- Vistas y escenarios reales para reportes automatizados.
+## 🗃️ Módulo 3: SQL para Consulta y Manipulación
+- Clase 10: Introducción a bases de datos, SELECT básico, filtros (WHERE, BETWEEN, LIKE).
+- Clase 11: JOINs (INNER, LEFT, RIGHT), relaciones entre tablas.
+- Clase 12: Funciones agregadas, GROUP BY, HAVING.
+- Clase 13: Subconsultas, alias, funciones de texto y fechas.
+- Clase 14: Creación de vistas, exportación de resultados.
+- Clase 15: Caso práctico: consulta e interpretación de un conjunto de datos reales.
 
-### 📦 Módulo 4: Power BI para Visualización y Reportes (16h)
-- Conexión y transformación de datos.
-- Modelado y relaciones.
-- Visualizaciones con DAX y publicación de dashboards.
-
----
+## 📈 Módulo 4: Power BI
+- Clase 16: Introducción a Power BI, carga de datos, limpieza básica.
+- Clase 17: Modelado de datos, relaciones, jerarquías.
+- Clase 18: Visualizaciones: gráficos, segmentadores, tablas, mapas.
+- Clase 19: DAX básico: medidas, columnas calculadas.
+- Clase 20: Publicación y compartir dashboards; caso práctico completo.
 
 ## 🛠️ Proyecto Final Integrador
 
-Un caso práctico donde los participantes:
+Clase 21: Un caso práctico donde los participantes:
 - Recopilan y limpian datos usando **Excel y SQL**.
 - Desarrollan visualizaciones e insights con **Power BI**.
 - Presentan un análisis completo y profesional.
